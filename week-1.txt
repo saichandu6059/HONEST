@@ -1,0 +1,47 @@
+
+                                                         WEEK-1
+                                                    ===============
+
+
+Easy:-
+------
+1.how many numbers are smaller than the current number.
+2.Create target arrray in the given order.
+3.Number os students doing homework at a given time.
+4.Maximum product of two elements in an array
+5.Find N unique integers sum up to zero
+6.Final prices with a special discount in a shop.
+
+Medium:-
+-------
+
+7.Subrectangel Queries.
+8.Count the number of teams.
+9.Count square submatrices with all on.
+10.Rank teams by votes.
+
+
+Hard:-
+------
+11.Number of submatrices that sum to target
+12.Transform to chessboard.
+=================================================================================
+          week-2
+-------------------------------
+
+Easy
+-------
+
+1.convert binary number in a linked to intrger
+2.middile of the linked list
+3.Delete Node in a linked list**
+4.Reverse linked list
+5.Merge two sorted list
+6.Remove Duplicates from sorted list
+  
+Mediam
+---------
+7.Next Greater node in linked list
+8.Flatten a Multilevel Doubly linked list
+9.swap nodes in pars
+10. linked list in binary tree
